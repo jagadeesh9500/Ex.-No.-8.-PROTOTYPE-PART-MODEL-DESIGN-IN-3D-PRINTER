@@ -47,10 +47,6 @@
 
 ## Output:
 ![Screenshot 2024-04-22 183014](https://github.com/akash7812/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/146819826/0bb28d5a-2018-4d33-8eca-0d5d69e82368)
-![Screenshot 2024-11-23 131821](https://github.com/user-attachments/assets/6ea97315-3097-4a30-8f0c-c999d645872a)
-![Screenshot 2024-11-23 131833](https://github.com/user-attachments/assets/eee5d5eb-0c3b-4e9c-b2eb-bad3cfb84d1f)
-![Screenshot 2024-11-23 131843](https://github.com/user-attachments/assets/54aac8bf-eccc-45f7-ab40-f02e7d5cab75)
-
 ### Name:JAGADEESH P
 ### Register Number:212223230083
 
